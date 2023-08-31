@@ -1,0 +1,15 @@
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\bin\Debug\net6.0\BigO.exe
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\bin\Debug\net6.0\BigO.deps.json
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\bin\Debug\net6.0\BigO.runtimeconfig.json
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\bin\Debug\net6.0\BigO.dll
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\bin\Debug\net6.0\BigO.pdb
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.csproj.AssemblyReference.cache
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.AssemblyInfoInputs.cache
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.AssemblyInfo.cs
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.csproj.CoreCompileInputs.cache
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.dll
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\refint\BigO.dll
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.pdb
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\BigO.genruntimeconfig.cache
+C:\Users\int\Desktop\Desktop\Algorithms\MyDataStructuresAndAlgorithms\BigO\Nemo\Nemo\obj\Debug\net6.0\ref\BigO.dll
